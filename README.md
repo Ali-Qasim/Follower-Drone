@@ -17,3 +17,5 @@ The key commands are as follows:
 • [B]: Prints battery status to the terminal.
 
 If any button other than [T] is pressed, the track variable is set to false and the drone re-enters manual control mode. 
+
+For more details, refer to tech-doc.txt

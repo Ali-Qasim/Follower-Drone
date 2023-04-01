@@ -1,5 +1,10 @@
 # Follower-Drone
 
+User-following python app for the DJI Tello!
+
+![image](https://user-images.githubusercontent.com/67727388/229280738-79246398-5f67-4b49-8031-94537e46cf47.png)
+
+
 This technical documentation describes the structure and function of drone_tracking.py.
 
 drone_tracking.py is a Python script written for Python 3.8.6, to implement face-tracking and

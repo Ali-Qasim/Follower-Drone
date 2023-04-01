@@ -1,6 +1,6 @@
 # Follower-Drone
 
-User-following python app for the DJI Tello!
+This is a Python app I created for the DJI Tello to allow it to follow a user by tracking their face!
 
 ![image](https://user-images.githubusercontent.com/67727388/229280738-79246398-5f67-4b49-8031-94537e46cf47.png)
 
